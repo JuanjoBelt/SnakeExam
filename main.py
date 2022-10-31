@@ -1,6 +1,7 @@
-#PROYECTO FINAL
-#(A00836747) Juan José Hernández Beltrán
-#(A00836915) Brenda Cruz Arango
+#---------------------------------------------------------------------------------------------------
+#                   SNAKE EXAM - A game developed by Juanjo Hernández B. (10/2022)
+#---------------------------------------------------------------------------------------------------
+
 
 import pygame #Debe instalarse. Es el motor del juego
 import random #Para generar la manzana
