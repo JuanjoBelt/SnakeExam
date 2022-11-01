@@ -1,3 +1,3 @@
 # SnakeExam
-El clasico Snake, pero incorporando preguntas personalizables de opción múltiple leidas desde un documento .xlsx para hacer más divertido el tiempo de estudio.
-El proyecto utiliza las siguientes librerías: pygame, tkinter, pandas. Todas pueden instalarse desde PIP.
+The classic Snake, but incorporating customizable multiple choice questions read from an .xlsx document to make study time more fun.
+This project requires the following libraries: pygame, tkinter, pandas. They are all available in PIP.
